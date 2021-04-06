@@ -1,0 +1,28 @@
+_repo: Le-Chevrefeuille_64990
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moulié, Charles
+    aliases:
+    - Moulie, Charles
+    - Sandre, Thierry
+    birthdate: 1890
+    deathdate: 1950
+    gutenberg_agent_id: '52873'
+    url: http://www.gutenberg.org/2009/agents/52873
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Thierry_Sandre
+    - https://fr.wikipedia.org/wiki/Thierry_Sandre
+description: ''
+gutenberg_issued: '2021-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64990'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le Chèvrefeuille
+url: http://www.gutenberg.org/ebooks/64990
