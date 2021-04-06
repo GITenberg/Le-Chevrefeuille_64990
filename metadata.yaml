@@ -1,5 +1,8 @@
 _repo: Le-Chevrefeuille_64990
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64990-h/images/cover.jpg
 creator:
   author:
     agent_name: Moulié, Charles
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Thierry_Sandre
     - https://fr.wikipedia.org/wiki/Thierry_Sandre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64990#Le-Chevrefeuille
 gutenberg_issued: '2021-04-04'
 gutenberg_type: Text
 identifiers:
